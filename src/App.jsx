@@ -1,6 +1,6 @@
 import React from 'react';
 import  "../node_modules/bootstrap/dist/css/bootstrap.min.css";
-import  "../node_modules/bootstrap/dist/jss/bootstrap.bundle.js";
+// import  "../node_modules/bootstrap/dist/jss/bootstrap.bundle.js";
 
 import Home from './Home';
 import About from './About';
@@ -9,6 +9,7 @@ import Contact from './Contact';
 import Navbar from './Navbar';
 import { Switch, Route,Redirect } from 'react-router-dom';
 
+import Footer from './Footer';
 
 
 
@@ -26,6 +27,8 @@ const App = () =>{
             <Redirect to="/" />  {/* if user write anything after forward '/' in url */}
             
         </Switch>
+
+        <Footer />
         </>
     )
 }
