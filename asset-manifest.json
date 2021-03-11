@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WebsiteYoboshu/static/css/main.75175488.chunk.css",
+    "main.js": "/WebsiteYoboshu/static/js/main.12d5de98.chunk.js",
+    "main.js.map": "/WebsiteYoboshu/static/js/main.12d5de98.chunk.js.map",
+    "runtime-main.js": "/WebsiteYoboshu/static/js/runtime-main.60039d34.js",
+    "runtime-main.js.map": "/WebsiteYoboshu/static/js/runtime-main.60039d34.js.map",
+    "static/css/2.74c02967.chunk.css": "/WebsiteYoboshu/static/css/2.74c02967.chunk.css",
+    "static/js/2.57e009ce.chunk.js": "/WebsiteYoboshu/static/js/2.57e009ce.chunk.js",
+    "static/js/2.57e009ce.chunk.js.map": "/WebsiteYoboshu/static/js/2.57e009ce.chunk.js.map",
+    "index.html": "/WebsiteYoboshu/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/WebsiteYoboshu/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.75175488.chunk.css.map": "/WebsiteYoboshu/static/css/main.75175488.chunk.css.map",
+    "static/js/2.57e009ce.chunk.js.LICENSE.txt": "/WebsiteYoboshu/static/js/2.57e009ce.chunk.js.LICENSE.txt",
+    "static/media/contact.9e5ff185.svg": "/WebsiteYoboshu/static/media/contact.9e5ff185.svg",
+    "static/media/trainer.8b004e5e.png": "/WebsiteYoboshu/static/media/trainer.8b004e5e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60039d34.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.57e009ce.chunk.js",
+    "static/css/main.75175488.chunk.css",
+    "static/js/main.12d5de98.chunk.js"
+  ]
+}
